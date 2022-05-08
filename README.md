@@ -1,13 +1,13 @@
 
-#  Loop Studios Website Clone
+#  Note Taking
 
-Clone of Loop Studios website
+Website for making notes using bootstrap and Javascript
 
 
 
 ## 💻 Demo
 
-[Loop Studios Clone Website Link](https://loop-studios-landing-page-by-tushar.netlify.app/)
+[Website Link](https://notes-taking-by-tushar.netlify.app/)
 
 
 ## 📍 Run Locally
@@ -15,7 +15,7 @@ Clone of Loop Studios website
 Clone the project
 
 ```bash
-  git clone https://github.com/Tushar-goyal-2712/Loop-Studios.git
+  git clone https://github.com/Tushar-goyal-2712/Note-Taking.git
 ```
 
 Install node_module dependencies
@@ -34,7 +34,7 @@ Visit [Local Host](http://localhost/)
 
 ## 📍 Screenshots
 
-![](https://github.com/Tushar-goyal-2712/Cineflix-Website-clone/blob/5b833a3d516c89b04d52bfa75f07d59ad6ff6b08/Screenshots/cineflix-movie.png)
+![](https://github.com/Tushar-goyal-2712/Form-Validation/blob/e1326e2370f0f3e6bd611a2cbb2db49c1487cc4a/Screenshots/design.png)
 
 ## 📍 Deployment
 
